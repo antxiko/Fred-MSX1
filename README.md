@@ -5,6 +5,8 @@
 An unofficial conversion of *Fred* (Quicksilva, 1984) from ZX Spectrum to a
 64 KB ASCII16 cartridge for an MSX1 with 64 KB of RAM.
 
+**Website:** https://antxiko.github.io/Fred-MSX1/
+
 It retains the game engine and adds VBlank presentation, a native SCREEN 2
 tile renderer, redefinable keys, PSG sound and a scrolling tracking map that
 keeps Fred centred with a hardware sprite.

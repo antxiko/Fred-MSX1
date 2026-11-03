@@ -5,6 +5,8 @@
 Conversión no oficial de *Fred* (Quicksilva, 1984) desde ZX Spectrum a un
 cartucho ASCII16 de 64 KB para MSX1 con 64 KB de RAM.
 
+**Web:** https://antxiko.github.io/Fred-MSX1/es/
+
 Conserva el motor del juego y añade presentación por VBlank, renderizado nativo
 de tiles para SCREEN 2, teclado redefinible, sonido por PSG y un mapa de
 seguimiento mejorado que mantiene a Fred centrado mediante un sprite.
